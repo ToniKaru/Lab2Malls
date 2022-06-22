@@ -1,3 +1,7 @@
+# Malls - Lab 2 : Web services and integrations 
+
+Implements a simple web api for handling a database of malls using only GET and POST using Micronaut, Graal VM and MongoDB.
+
 ## Micronaut 3.4.3 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.4.3/guide/index.html)
